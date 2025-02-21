@@ -1,0 +1,16 @@
+App(
+    appid="coinflip",
+    name="Coinflip",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="coinflip_main",
+    fap_category="ACAB",
+    fap_author="MAZ",
+    fap_icon="coinflip_10px.png",
+    stack_size=1 * 1024,
+    requires=[
+        "gui",
+    ],
+    fap_version="0.1",
+    fap_description="Coin Flip.",
+    fap_icon_assets="images",
+)
