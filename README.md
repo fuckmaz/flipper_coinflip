@@ -11,7 +11,7 @@ Simple Coin Flip App for the [Flipper Zero](https://www.flipperzero.one)
 
 ## Installation
 
-Download the **coinflip.fap** from the [latest release](https://www.flipperzero.one) and copy it to the **apps/Games** directory on your **Flipper Zero** 
+Download the **coinflip.fap** from the [latest release](https://github.com/fuckmaz/flipper_coinflip/releases/latest) and copy it to the **apps/Games** directory on your **Flipper Zero** 
 
 
 ## Build
