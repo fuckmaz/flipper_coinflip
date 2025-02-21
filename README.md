@@ -35,6 +35,8 @@ The **Flipper Coin Flip** app will automatically be launched on your Flipper aft
 ## TODO
 
 - add coin flip animation
+- implement result counter
+- implement flipping multiple coins at once
 
 xoxo - maz <3
 
