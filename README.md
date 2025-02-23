@@ -9,7 +9,7 @@ Simple Coin Flip App for the [Flipper Zero](https://www.flipperzero.one)
 
 
 <p  align="center">
-<img src="screenshots/screenshot_1.png" width="40%" hspace="5">
+<img src="screenshots/screenshot_1.png" width="60%" hspace="5">
 </p>
 
 
