@@ -5,8 +5,12 @@
 Simple Coin Flip App for the [Flipper Zero](https://www.flipperzero.one)
 
 
+## Screenshots
 
 
+<p  align="center">
+<img src="screenshots/screenshot_1.png" width="40%" hspace="5">
+</p>
 
 
 ## Installation
